@@ -33,6 +33,7 @@ import SwitchExample from './Examples/SwitchExample';
 import TextExample from './Examples/TextExample';
 import TextInputExample from './Examples/TextInputExample';
 import ToggleButtonExample from './Examples/ToggleButtonExample';
+import ToggleComboButtonExample from './Examples/ToggleComboButtonExample';
 import TouchableRippleExample from './Examples/TouchableRippleExample';
 
 export const examples: Record<
@@ -68,6 +69,7 @@ export const examples: Record<
   text: TextExample,
   textInput: TextInputExample,
   toggleButton: ToggleButtonExample,
+  toggleComboButton: ToggleComboButtonExample,
   touchableRipple: TouchableRippleExample,
 };
 

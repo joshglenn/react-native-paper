@@ -47,7 +47,7 @@ export { default as Appbar } from './components/Appbar/Appbar';
 export { default as TouchableRipple } from './components/TouchableRipple';
 export { default as TextInput } from './components/TextInput/TextInput';
 export { default as ToggleButton } from './components/ToggleButton/ToggleButton';
-
+export { default as ToggleComboButton } from './components/ToggleButton/ToggleComboButton';
 export { default as Caption } from './components/Typography/Caption';
 export { default as Headline } from './components/Typography/Headline';
 export { default as Paragraph } from './components/Typography/Paragraph';
